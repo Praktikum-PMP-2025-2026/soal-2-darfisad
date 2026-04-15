@@ -20,7 +20,6 @@ int main () {
     scanf("%d", &T);
     for (i = 0; i < T; i++) {
         scanf("%d", &n);
-        // transformasi(n, 0);
     printf("LANGKAH %d\n", langkah(n));
     }
     return 0;
